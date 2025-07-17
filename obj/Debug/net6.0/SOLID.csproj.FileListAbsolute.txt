@@ -1,0 +1,15 @@
+/Users/krishnendhuarun/BroCamp/BCR04/Week8/SOLIDprinciples/SOLID/SOLID/bin/Debug/net6.0/SOLID
+/Users/krishnendhuarun/BroCamp/BCR04/Week8/SOLIDprinciples/SOLID/SOLID/bin/Debug/net6.0/SOLID.deps.json
+/Users/krishnendhuarun/BroCamp/BCR04/Week8/SOLIDprinciples/SOLID/SOLID/bin/Debug/net6.0/SOLID.runtimeconfig.json
+/Users/krishnendhuarun/BroCamp/BCR04/Week8/SOLIDprinciples/SOLID/SOLID/bin/Debug/net6.0/SOLID.dll
+/Users/krishnendhuarun/BroCamp/BCR04/Week8/SOLIDprinciples/SOLID/SOLID/bin/Debug/net6.0/SOLID.pdb
+/Users/krishnendhuarun/BroCamp/BCR04/Week8/SOLIDprinciples/SOLID/SOLID/obj/Debug/net6.0/SOLID.csproj.AssemblyReference.cache
+/Users/krishnendhuarun/BroCamp/BCR04/Week8/SOLIDprinciples/SOLID/SOLID/obj/Debug/net6.0/SOLID.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krishnendhuarun/BroCamp/BCR04/Week8/SOLIDprinciples/SOLID/SOLID/obj/Debug/net6.0/SOLID.AssemblyInfoInputs.cache
+/Users/krishnendhuarun/BroCamp/BCR04/Week8/SOLIDprinciples/SOLID/SOLID/obj/Debug/net6.0/SOLID.AssemblyInfo.cs
+/Users/krishnendhuarun/BroCamp/BCR04/Week8/SOLIDprinciples/SOLID/SOLID/obj/Debug/net6.0/SOLID.csproj.CoreCompileInputs.cache
+/Users/krishnendhuarun/BroCamp/BCR04/Week8/SOLIDprinciples/SOLID/SOLID/obj/Debug/net6.0/SOLID.dll
+/Users/krishnendhuarun/BroCamp/BCR04/Week8/SOLIDprinciples/SOLID/SOLID/obj/Debug/net6.0/refint/SOLID.dll
+/Users/krishnendhuarun/BroCamp/BCR04/Week8/SOLIDprinciples/SOLID/SOLID/obj/Debug/net6.0/SOLID.pdb
+/Users/krishnendhuarun/BroCamp/BCR04/Week8/SOLIDprinciples/SOLID/SOLID/obj/Debug/net6.0/SOLID.genruntimeconfig.cache
+/Users/krishnendhuarun/BroCamp/BCR04/Week8/SOLIDprinciples/SOLID/SOLID/obj/Debug/net6.0/ref/SOLID.dll
