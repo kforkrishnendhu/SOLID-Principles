@@ -5,6 +5,11 @@ namespace SOLID.O
 	{
 		public double radius { get; set; }
 
+		public Circle(double r)
+		{
+			radius = r;
+		}
+
 		public double Area() => Math.PI * radius * radius;
     }
 }

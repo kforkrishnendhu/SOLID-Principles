@@ -6,6 +6,12 @@ namespace SOLID.O
         public double Height { get; set; }
         public double Width { get; set; }
 
+        public Rectangle(double h,double w)
+        {
+            Height = h;
+            Width = w;
+        }
+
         public double Area() => Height * Width;
     }
 }

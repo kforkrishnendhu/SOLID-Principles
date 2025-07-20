@@ -14,11 +14,12 @@ namespace SOLID.S
             var user = new User(email, password);
 
             emailService.SendEmail(user);
+            Console.WriteLine("Registration Success");
         }
 
         public void Login(string email,string password)
         {
-            Console.WriteLine("Login");
+            Console.WriteLine("Login Success");
         }
 
        
