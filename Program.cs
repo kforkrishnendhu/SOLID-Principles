@@ -1,6 +1,7 @@
 ﻿using SOLID.D;
 using SOLID.S;
 using SOLID.O;
+using SOLID.L;
 
 namespace SOLID;
 class Program
@@ -20,6 +21,13 @@ class Program
         Rectangle rectangle = new Rectangle(3, 4);
         double totArea= areaCalculator.TotalArea(new IArea[] {circle,rectangle});
         Console.WriteLine("Total Area: " + totArea);
+
+        //LSP
+        ReportPrinter reportPrinter = new ReportPrinter();
+        ReportGenerator pdf = new PDFReport();
+        ReportGenerator excel = new ExcelReport();
+        reportPrinter.PrintReport(pdf);
+        reportPrinter.PrintReport(excel);
 
         //DIP
         ILog objLog = new DatabaseLogger();

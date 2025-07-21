@@ -10,15 +10,23 @@
   <ItemGroup>
     <None Remove="1S\" />
     <None Remove="2O\" />
-    <None Remove="3L\" />
     <None Remove="4I\" />
     <None Remove="5D\" />
+    <None Remove="3L\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="1S\" />
     <Folder Include="2O\" />
-    <Folder Include="3L\" />
     <Folder Include="4I\" />
     <Folder Include="5D\" />
+    <Folder Include="3L\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="3L\ILoad.cs" />
+    <Compile Remove="3L\SqlFileManager.cs" />
+    <Compile Remove="3L\ReadWriteFile.cs" />
+    <Compile Remove="3L\IWrite.cs" />
+    <Compile Remove="3L\ReadOnlyFile.cs" />
+    <Compile Remove="3L\File.cs" />
   </ItemGroup>
 </Project>
